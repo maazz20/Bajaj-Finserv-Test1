@@ -1,0 +1,8 @@
+com\vidal\config\RestTemplateConfig.class
+com\vidal\dto\SqlSubmissionDto.class
+com\vidal\dto\WebhookRequestDto.class
+META-INF\maven\com.vidal\webhook-handler\pom.xml
+META-INF\maven\com.vidal\webhook-handler\pom.properties
+com\vidal\WebhookHandlerApplication.class
+com\vidal\service\SqlProblemSolver.class
+com\vidal\dto\WebhookResponseDto.class
